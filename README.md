@@ -1,16 +1,25 @@
-# weather
+# 🌤️ Weather App - Flutter
 
-A new Flutter project.
+A simple and elegant weather application built with Flutter and WeatherAPI.  
+It allows users to search for a city and get current weather details like temperature, condition, and min/max forecast.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Search for any city
+- 🌡️ View temperature, min/max, and weather condition
+- ⛅ Dynamic weather icons
+- 📦 State management using Bloc
+- ✅ Handles API errors gracefully
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dio** (for API requests)
+- **WeatherAPI** ([weatherapi.com](https://www.weatherapi.com/))
+- **Bloc** (state management)
+
+---
